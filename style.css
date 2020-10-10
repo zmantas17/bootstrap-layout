@@ -1,0 +1,38 @@
+#navbar{
+    height: 50px;
+    background-color: yellow;
+
+    text-align: left;
+}
+#header{
+    height: 100px;
+    background-color: pink;
+    text-align: left;
+}
+#sidebar{
+    height: 475px;
+    background-color: rgba(203, 175, 248, 0.685);
+    text-align: left;
+}
+#maincontent{
+    height: auto;
+    background-color: lightblue;
+    text-align: left;
+}
+#aside1{
+    height: 150px;
+    background-color: rgba(110, 84, 106, 0.877);
+}
+#aside2{
+    height: 150px;
+    background-color: rgb(208, 233, 184);
+}
+#aside3{
+    height: 150px;
+    background-color: rgba(203, 175, 248, 0.685);
+}
+#footer{
+    height: 50px;
+    background-color: darkgray;
+    text-align: left;
+}
